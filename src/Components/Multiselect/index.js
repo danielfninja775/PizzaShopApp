@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import { View } from 'react-native';
 import Icon from 'react-native-vector-icons/FontAwesome'
 import SectionedMultiSelect from 'react-native-sectioned-multi-select';
-
+import Icon from 'react-native-vector-icons/MaterialIcons`
 
 const items = [
   // this is the parent or 'item'
